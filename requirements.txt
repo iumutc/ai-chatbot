@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+torch
+transformers
+accelerate
+sentence-transformers
+requests

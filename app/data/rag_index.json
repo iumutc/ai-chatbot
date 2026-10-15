@@ -1,0 +1,86 @@
+[
+  {
+    "doc_id": "store-return-site",
+    "source_type": "return_policy",
+    "channel": "site",
+    "marketplace": "",
+    "product_id": null,
+    "title": "Site Iade Politikasi",
+    "content": "Kullanilmamis urunler teslimattan itibaren 14 gun icinde fatura ile iade edilebilir.",
+    "updated_at": "2026-03-09"
+  },
+  {
+    "doc_id": "store-shipping-site",
+    "source_type": "shipping_policy",
+    "channel": "site",
+    "marketplace": "",
+    "product_id": null,
+    "title": "Site Kargo Politikasi",
+    "content": "Hafta ici saat 15:00'e kadar verilen siparisler ayni gun kargoya verilir.",
+    "updated_at": "2026-03-09"
+  },
+  {
+    "doc_id": "store-payment-site",
+    "source_type": "payment_policy",
+    "channel": "site",
+    "marketplace": "",
+    "product_id": null,
+    "title": "Site Odeme Yontemleri",
+    "content": "Kredi karti, banka karti ve havale/eft ile odeme kabul edilir.",
+    "updated_at": "2026-03-09"
+  },
+  {
+    "doc_id": "store-contact-site",
+    "source_type": "contact_info",
+    "channel": "site",
+    "marketplace": "",
+    "product_id": null,
+    "title": "Musteri Hizmetleri",
+    "content": "Musteri hizmetleri hafta ici 09:00-18:00 saatlerinde destek verir.",
+    "updated_at": "2026-03-09"
+  },
+  {
+    "doc_id": "prd-1001-site",
+    "source_type": "product_spec",
+    "channel": "site",
+    "marketplace": "",
+    "product_id": "1001",
+    "title": "Pamuk Tisort",
+    "content": "%100 pamuk kumas, regular fit kalip, 30 derecede makinada yikanabilir.",
+    "price": 349.9,
+    "stock": 42,
+    "updated_at": "2026-03-09"
+  },
+  {
+    "doc_id": "prd-1001-trendyol-shipping",
+    "source_type": "shipping_policy",
+    "channel": "trendyol",
+    "marketplace": "trendyol",
+    "product_id": "1001",
+    "title": "Trendyol Teslimat Bilgisi",
+    "content": "Trendyol siparislerinde teslimat suresi 1-3 is gunudur.",
+    "updated_at": "2026-03-09"
+  },
+  {
+    "doc_id": "prd-1001-amazon-return",
+    "source_type": "return_policy",
+    "channel": "amazon",
+    "marketplace": "amazon",
+    "product_id": "1001",
+    "title": "Amazon Iade Bilgisi",
+    "content": "Amazon kanalinda urunler 30 gun icinde iade edilebilir.",
+    "updated_at": "2026-03-09"
+  },
+  {
+    "doc_id": "prd-2002-hepsiburada",
+    "source_type": "product_spec",
+    "channel": "hepsiburada",
+    "marketplace": "hepsiburada",
+    "product_id": "2002",
+    "title": "700W Blender",
+    "content": "700W motor gucu, 1.5 litre hazne, 2 yil distributor garantisi.",
+    "price": 1299.0,
+    "stock": 15,
+    "updated_at": "2026-03-09"
+  }
+]

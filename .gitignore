@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Secrets and local settings
+.env
+
+# Runtime data
+app/data/chat.db
+app/data/stock_cache.json
+*.log
+
+# IDE / tools
+.idea/
+.vscode/
+.cadence/
